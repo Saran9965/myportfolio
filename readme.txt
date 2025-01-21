@@ -11,3 +11,4 @@ LIVE DEMO: https://portfolio-60035360965.development.catalystserverless.in
 4.Bootstrap: For responsive layouts and pre-designed components.
 5.Code Editor: Tools like VS Code or Sublime Text for writing and managing code efficiently.
 6.Version Control: Git and GitHub for tracking changes and hosting the portfolio online.
+7.Hosting: zohocatalyst and vercel.
