@@ -3,6 +3,8 @@ Create a professional portfolio using HTML for structure, CSS for styling and pe
 JavaScript for interactivity like smooth scrolling and form validation, and Bootstrap for a 
 responsive layout and pre-designed components such as navbars, cards, and buttons.
 
+LIVE DEMO: https://portfolio-60035360965.development.catalystserverless.in
+
 1.HTML: For building the foundational structure and content layout.
 2.CSS: For adding styling, custom designs, and animations.
 3.JavaScript: To enhance interactivity and functionality.
